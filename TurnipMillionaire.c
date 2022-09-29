@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    float x[10] = {0}, y[10] = {0}, h[10] = {0};
+    float x[10] = {0}, h[10] = {0};
     float w = 0.9,u = 0.1,b=-51,up=-0.98,bp=153;
     scanf("%f",&x[0]);
     for(int t=0;t<5;t++){
