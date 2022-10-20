@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 # define LEN 5
 int full_adder_c(int a, int b ,int c);
